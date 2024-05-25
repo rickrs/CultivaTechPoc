@@ -1,0 +1,23 @@
+﻿[
+  {
+    "fruta": "Banana",
+    "insumosNecessarios": [ "Adubo", "TerraPreta", "Semente" ],
+    "cidade": "São Paulo",
+    "mesIdeal": "Janeiro",
+    "prazoColheitaMeses": 6
+  },
+  {
+    "fruta": "Tomate",
+    "insumosNecessarios": [ "Adubo", "TerraPreta", "Semente de Tomate" ],
+    "cidade": "Rio de Janeiro",
+    "mesIdeal": "Fevereiro",
+    "prazoColheitaMeses": 4
+  },
+  {
+    "fruta": "Maçã",
+    "insumosNecessarios": [ "Adubo", "TerraVermelha", "Semente de Maçã" ],
+    "cidade": "Curitiba",
+    "mesIdeal": "Março",
+    "prazoColheitaMeses": 8
+  }
+]
